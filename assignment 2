@@ -14,4 +14,6 @@ git checkout -b (branch name)
  2. diffrence between nodejs and java script
  java script is a programmin language where as nodejs is interpreter for the javascript progreamming.
 
- 3.
+ 4. git comment to reset a commit
+ git reset --hard commitID
+    git revert head
